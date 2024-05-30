@@ -1,0 +1,21 @@
+---
+title: "Music"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 2
+---
+
+In addition to conducting scientific research, Dana Kahn is a multi-instrumentalist and songwriter.
+
+## Current Projects
+
+
+## Past Projects {.tabset}
+
+### Performances
+
+### Honors
+
+
+

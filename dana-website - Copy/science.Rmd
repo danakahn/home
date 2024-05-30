@@ -1,0 +1,34 @@
+---
+title: "Science"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 2
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Graduate Research {.tabset}
+
+### Current Projects
+
+**Spatially Mapping Methane Cycle Processes in Northern Forests** (June 2023 - Present)
+
+### Honors
+
+### Outreach
+
+
+## Undergraduate Research {.tabset}
+
+### Past Projects
+
+(tab content)
+
+### Honors
+
+### Publications
+
+
