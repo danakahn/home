@@ -22,8 +22,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 * Research Assistant Intern with Woodwell Climate Research Center (summer 2024)
 
-![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/dana-website/pictures/Howland Forest - Dana Kahn (4).jpg){width=30%}
-![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/dana-website/pictures/Howland Forest - Dana Kahn (3).jpg){width=30%}
+![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/dana-website-aug-2-24update/pictures/Howland Forest - Dana Kahn (4).jpg){width=30%}
+![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/dana-website-aug-2-24update/pictures/Howland Forest - Dana Kahn (3).jpg){width=30%}
 
 **Just Energy Academy** (May 2024 - Present)
 
@@ -33,7 +33,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 * Developing community action project that addresses the unique climate and economic challenges faced by Atlanta and the Southeast
 
-![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/dana-website/pictures/JEA_group.png){width=30%}
+![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/dana-website-aug-2-24update/pictures/JEA_group.png){width=30%}
 
 
 ### Past Projects
@@ -44,7 +44,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 * Collaborated with curator to identify 2000 new acquisitions and designated permanent and non-permanent fossils
 
-![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/dana-website/pictures/Dana_tellus.jpg){width=70%}
+![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/dana-website-aug-2-24update/pictures/Dana_tellus.jpg){width=70%}
 
 
 ### Honors
@@ -61,13 +61,13 @@ knitr::opts_chunk$set(echo = TRUE)
 
 * Laney Graduate School Tuition Scholarship (2023-2025)
 
-![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/dana-website/pictures/Howland Forest - Dana Kahn (2).jpg){width=50%}
+![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/dana-website-aug-2-24update/pictures/Howland Forest - Dana Kahn (2).jpg){width=50%}
 
 ### Outreach
 
 #### Media
 * Poster Presentation at Southeastern Biogeochemistry Symposium, Georgia State University (April 2023)
-![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/dana-website/pictures/Dana_SBS_poster.jpg){width=70%}
+![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/dana-website-aug-2-24update/pictures/Dana_SBS_poster.jpg){width=70%}
 
 * [Restoring Earth through Science and Songs](https://climatetalks.emory.edu/blog/restoring-earth-through-science-and-songs), Emory Climate Talks blog
 
@@ -97,10 +97,10 @@ Graduate Women in Science (GWIS), Soil Science Society of America (SSSA), Americ
 
 Sample pages from field guide:
 
-![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/dana-website/pictures/field_guide.jpeg){width=60%}
+![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/dana-website-aug-2-24update/pictures/field_guide.jpeg){width=60%}
 
-![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/dana-website/pictures/field_guide2.jpeg){width=40%}
-![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/dana-website/pictures/field_guide3.jpeg){width=40%}
+![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/dana-website-aug-2-24update/pictures/field_guide2.jpeg){width=40%}
+![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/dana-website-aug-2-24update/pictures/field_guide3.jpeg){width=40%}
 
 **Sustainability Club Toolkit and Library**
 
@@ -121,8 +121,8 @@ Sample pages from field guide:
 
 * Conducted environmental monitoring field work at the Institute of Ecosystem Studies and installed soil senor network to collect temperature, matric potential, and dielectric constant of organic soil
 
-![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/dana-website/pictures/usc.jpeg){width=40%}
-![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/dana-website/pictures/usc2.jpeg){width=40%}
+![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/dana-website-aug-2-24update/pictures/usc.jpeg){width=40%}
+![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/dana-website-aug-2-24update/pictures/usc2.jpeg){width=40%}
 
 ***
 
@@ -142,12 +142,12 @@ Sample pages from field guide:
 
 ### Publications
 
-1. D. Kahn, “Restoring Earth through Science and Songs,” 15-Aug -2023. Emory Climate Talks. https://climatetalks.emory.edu/blog/restoring-earth-through-science-and-songs.
+1. D. Kahn, “Restoring Earth through Science and Songs,” 15-Aug -2023. Emory Climate Talks. https://climatetalks.emory.edu/index.php/blog/restoring-earth-through-science-and-songs.
 
 2. Akbar, R.; Silva, A.; Chen, R. H.; Golestani, N.; Bakian-Dogaheh, K.; Kannan, A.; Kahn, D.; Moghaddam, M.; Entekhabi,D., “Recent Progress and Development in Energy Efficient and Smart in situ Wireless Sensor Networks: SoilSCAPE,”
-vol. 2019, 2019. https://ui.adsabs.harvard.edu/abs/2019AGUFMIN23C..20A/abstract.
+vol. 2019, 2019. [Abstract](https://ui.adsabs.harvard.edu/abs/2019AGUFMIN23C..20A/abstract).
 
-3. D. Kahn, “Encouraging Women in Science Programs: An Intern’s Perspective,” 30-Mar -2019. https://osf.io/q8cnz.
+3. D. Kahn, “Encouraging Women in Science Programs: An Intern’s Perspective,” 30-Mar -2019. OSF. https://osf.io/q8cnz.
 
 4. Mayer P.; Hodge K.; Kahn D.; Best M.; Dryer Y.; Pritza M.; Nelson J.; Wittry J. 2018 “Interns and Volunteers Crucial in
 Curating and Digitizing Fossil Invertebrates in the Field Museum’s Fast Growing Mazon Creek Collection,” Biodiversity Information Science and Standards 2: e25942. https://doi.org/10.3897/biss.2.25942.
