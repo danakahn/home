@@ -2,19 +2,21 @@
 title: "Music"
 output: 
   html_document:
-    toc: true
+    toc: false
     toc_depth: 2
 ---
 
 In addition to conducting scientific research, Dana Kahn is a multi-instrumentalist and songwriter who performs original environmental advocacy music.
 
-![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/dana-website/pictures/Dana_guitar.jpg){width=50%}
+![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/dana-website/pictures/Dana_guitar.jpg){width=30%}
 
 ## Projects {.tabset .tabset-fade .tabset-pills}
 
-### Current Outreach
+### Current Outreach and Projects
 
 **Environmental Education for K-12 using Music**
+
+**Sound Engineering and Digital Audio Workstation (DAW) Consulting**
 
 ***
 
@@ -31,7 +33,7 @@ In addition to conducting scientific research, Dana Kahn is a multi-instrumental
 
 * “Notes of Equity” virtual concert with Partnership for Southern Equity (PSE), May 2021
 
-![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/dana-website/pictures/Dana_ENVS_perform.jpg){width=50%}
+![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/dana-website/pictures/Dana_ENVS_perform.jpg){width=40%}
 
 ***
 
@@ -48,16 +50,18 @@ In addition to conducting scientific research, Dana Kahn is a multi-instrumental
 
 The following are Dana's original songs:
 
-* [Reach Back](https://youtu.be/js4ddUsWmDg?si=448xelZFXwV-vYAU)
+* [Reach Back](https://youtu.be/d-6AeD5tAG0)
 
 * [Shadow](https://youtu.be/iUo1RZKqkgo?si=o_rv_jeU28ifcv8p)
 
 * [Nothing Else Matters](https://youtu.be/ZoB6NeEJB54?si=DfZkBJ-4O-Klb2D)
 
-* [Change Who We Are](https://youtu.be/FRPOaRx7j7M?si=JnRsY5_T1Bxqn15P)
+* [Change Who We Are](https://youtu.be/u3HGxDoNNhc)
 
 * [When I'm Down](https://youtu.be/zgCgGHraMX4?si=pqpx5UTmRQhKdbSw)
 
 * [What will we do?](https://youtu.be/31NkKVCuuT0?si=mzYHRMW_gN8Motlg)
 
 * Roots and Channels - [demo](https://youtu.be/G80L9DQtAME?si=n81deQhAsUOeiw7v)
+
+***

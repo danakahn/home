@@ -1,11 +1,16 @@
 ---
 title: "Dana Kahn"
 ---
+```{r, eval = FALSE, include = FALSE}
+install.packages("magick") #image processing package
+library(magick)
+str(magick::magick_config()) #see formats supported by ImageMagick on my system
+```
 
 #### About
-Dana Kahn is a budding environmental scientist and musical advocate. She is currently a second-year Master's of Science student and researcher at Emory University in Atlanta, GA. Dana conducts environmental research on methane cycle processes in Northern Forests in the [Sihi Biogeochemistry Laboratory](https://www.debjanisihi.com/).
+Dana Kahn is a budding environmental scientist and musical advocate. She is currently a second-year Master's of Science student and researcher at Emory University in Atlanta, GA. Dana conducts environmental research on methane cycle processes in a Northern Forest for the [Sihi Biogeochemistry Laboratory](https://www.debjanisihi.com/). Additionally, Dana has been involved in climate justice and environmental advocacy projects, most notably with the Partnership for Southern Equity and The Climate Reality Project.
 
-![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/dana-website/pictures/Kahn_Dana.jpg){width=50%}
+![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/dana-website/pictures/Kahn_Dana_crop.jpg){width=25%}
 
 #### Education
 
@@ -15,6 +20,8 @@ Dana Kahn is a budding environmental scientist and musical advocate. She is curr
 #### Contact
 dana.a.kahn@emory.edu
 
-Connect on [Linkedin](www.linkedin.com/in/dana-kahn)
+Connect on [Linkedin](https://www.linkedin.com/in/dana-kahn)
+
+![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/dana-website/pictures/Dana_Howland_Tower.jpg){width=40%}
 
  ***
