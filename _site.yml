@@ -20,7 +20,7 @@ navbar:
 href: https://github.com/danakahn/danakahn.git
 output:
   html_document:
-    theme: journal
+    theme: spacelab
     highlight: kate
     include:
       after_body: my_footer.Rhtml

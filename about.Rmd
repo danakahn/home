@@ -4,11 +4,13 @@ output:
   html_document:
     toc: false
     toc_depth: 2
+    theme: spacelab
+    highlight: kate
 ---
 
 In addition to conducting scientific research, Dana Kahn is a multi-instrumentalist and songwriter who performs original environmental advocacy music.
 
-![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/dana-website/pictures/Dana_guitar.jpg){width=30%}
+![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/home3/pictures/Dana_guitar.jpg){width=30%}
 
 ## Projects {.tabset .tabset-fade .tabset-pills}
 
@@ -33,7 +35,7 @@ In addition to conducting scientific research, Dana Kahn is a multi-instrumental
 
 * “Notes of Equity” virtual concert with Partnership for Southern Equity (PSE), May 2021
 
-![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/dana-website/pictures/Dana_ENVS_perform.jpg){width=40%}
+![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/home3/pictures/Dana_ENVS_perform.jpg){width=40%}
 
 ***
 
