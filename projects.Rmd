@@ -138,7 +138,7 @@ Esri's Young Professional Network, American Geophysical Union (AGU), Graduate Wo
 
 Sample pages from field guide:
 
-![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/home3/pictures/field_guide.jpeg){width=60%}
+![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/home - new/home/pictures/field_guide.jpeg){width=60%}
 
 ![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/home - new/home/pictures/field_guide2.jpeg){width=40%}
 ![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/home - new/home/pictures/field_guide3.jpeg){width=40%}
