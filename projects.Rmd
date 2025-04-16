@@ -24,8 +24,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 * Created high-quality map series in ArcGIS Pro showing the context of the Howland Forest study site along with soil sampling locations
 
-![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/home3/pictures/Howland Forest - Dana Kahn (4).jpg){width=30%}
-![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/home3/pictures/Howland Forest - Dana Kahn (3).jpg){width=30%}
+![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/home - new/home/pictures/Howland Forest - Dana Kahn (4).jpg){width=30%}
+![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/home - new/home/pictures/Howland Forest - Dana Kahn (3).jpg){width=30%}
 
 **Georgia Coast Atlas** (May 2024 - Present)
 
@@ -39,9 +39,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 * Mentor and train 2 undergraduate students in database management, historical research, and geospatial techniques
 
-![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/home3/pictures/ChathamAve1.jpg){width=30%}
-![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/home3/pictures/WassawDune3.jpg){width=30%}
-![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/home3/pictures/HistoricTybeeIslandLightStation3.jpg){width=30%}
+![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/home - new/home/pictures/ChathamAve1.jpg){width=30%}
+![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/home - new/home/pictures/WassawDune3.jpg){width=30%}
+![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/home - new/home/pictures/HistoricTybeeIslandLightStation3.jpg){width=30%}
 
 **Just Energy Academy** (May 2024 - Present)
 
@@ -53,7 +53,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 * Plan, direct, and coordinate Atlanta community and stakeholder engagement sessions on food security and energy equity
 
-![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/home3/pictures/JEA_group.png){width=30%}
+![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/home - new/home/pictures/JEA_group.png){width=30%}
 
 
 ### Past Projects
@@ -64,7 +64,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 * Collaborated with curator to identify 2000 new acquisitions and designated permanent and non-permanent fossils within Tellus' growing natural history collection
 
-![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/home3/pictures/Dana_tellus.jpg){width=70%}
+![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/home - new/home/pictures/Dana_tellus.jpg){width=70%}
 
 
 ### Honors
@@ -88,25 +88,25 @@ knitr::opts_chunk$set(echo = TRUE)
 
 * Laney Graduate School Tuition Scholarship (2023-2025)
 
-![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/home3/pictures/Howland Forest - Dana Kahn (2).jpg){width=30%}
-![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/home3/pictures/YSDN.jpg){width=30%}
-![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/home3/pictures/JennyandDana.jpg){width=30%}
+![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/home - new/home/pictures/Howland Forest - Dana Kahn (2).jpg){width=30%}
+![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/home - new/home/pictures/YSDN.jpg){width=30%}
+![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/home - new/home/pictures/JennyandDana.jpg){width=30%}
 
 ### Outreach
 
 #### Media
 * Poster Presentation at American Geophysical Union Conference, Washington, D.C. (December 2024)
-![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/home3/pictures/Dana_presenting_at_AGU_Dec24.jpg){width=40%}
+![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/home - new/home/pictures/Dana_presenting_at_AGU_Dec24.jpg){width=40%}
 
 * Exhibit & Side-Event at United Nations Framework Convention on Climate Change (UNFCCC) COP29 in Baku, Azerbaijan (November 2024)
 
-![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/home3/pictures/COPExhibit.jpg){width=30%}
-![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/home3/pictures/COP29Group.jpg){width=30%}
+![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/home - new/home/pictures/COPExhibit.jpg){width=30%}
+![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/home - new/home/pictures/COP29Group.jpg){width=30%}
 
 * [African Youth Leaders Mobilize for Climate Action](https://climatetalks.emory.edu/blog/african-youth-leaders-mobilize-climate-action), Emory Climate Talks Blog (August 2024)
 
 * Poster Presentation at Southeastern Biogeochemistry Symposium, Georgia State University (April 2023)
-![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/home3/pictures/Dana_SBS_poster.jpg){width=40%}
+![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/home - new/home/pictures/Dana_SBS_poster.jpg){width=40%}
 
 * [Restoring Earth through Science and Songs](https://climatetalks.emory.edu/blog/restoring-earth-through-science-and-songs), Emory Climate Talks Blog (August 2023)
 
@@ -140,8 +140,8 @@ Sample pages from field guide:
 
 ![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/home3/pictures/field_guide.jpeg){width=60%}
 
-![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/home3/pictures/field_guide2.jpeg){width=40%}
-![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/home3/pictures/field_guide3.jpeg){width=40%}
+![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/home - new/home/pictures/field_guide2.jpeg){width=40%}
+![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/home - new/home/pictures/field_guide3.jpeg){width=40%}
 
 **Sustainability Club Toolkit and Library**
 
@@ -162,8 +162,8 @@ Sample pages from field guide:
 
 * Conducted environmental monitoring field work at the Institute of Ecosystem Studies and installed soil senor network to collect temperature, matric potential, and dielectric constant of organic soil
 
-![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/home3/pictures/usc.jpeg){width=40%}
-![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/home3/pictures/usc2.jpeg){width=40%}
+![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/home - new/home/pictures/usc.jpeg){width=40%}
+![](C:/Users/dkahn/OneDrive/Desktop/emory 2023/Emory MS in ENVS Thesis 23-25/website/home - new/home/pictures/usc2.jpeg){width=40%}
 
 ***
 
